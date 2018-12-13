@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+img {
+    width: 40px;
+    height: auto;
+    padding: 5px;
+}
+
+.col {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+.col-xs-12 {
+    text-align: center;
+}
+
+#skills {
+    min-height: 360px;
+    border: .01em black solid
+}
+
+#summary {
+    min-height: 360px;
+    border: .01em black solid
+}
+
+#education {
+    min-height: 360px;
+    border: .01em black solid
+}
+
+#proj1 {
+    min-height: 150px;    
+    border: .01em black solid
+}
+
+#proj2 {
+    min-height: 150px;
+    border: .01em black solid
+}
+
+#proj3 {
+    min-height: 150px;
+    border: .01em black solid
+}
+
+#proj4 {
+    min-height: 150px;
+    border: .01em black solid
+}
+
+#work1 {
+    min-height: 225px;
+    border: .01em black solid
+}
+
+#work2 {
+    min-height: 225px;
+    border: .01em black solid
+}
